@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int hannu_noob = 0;
+        int hannu_noob_dev = 0;
     }
 }
